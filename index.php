@@ -1,45 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
 
-.bml{
-text-align:center;
-margin-left:20%;
-margin-right:20%;
-margin-top:5%;
-padding-top:20px;
-padding-bottom:130px;
-height:600px;
-}
-table
-{
-width:75%;
-margin-left:100px;
-}
-table td,th
-{
-padding:10px;
-text-align:left;
-}
-table,table th,table td
-{
-border:1px solid black;
-border-collapse:collapse;
-}
-table th{
-background-color:#337ab7;
-	color:white;
-height:40px;
-	}
-
-</style>
   <title>SalesPanda</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="bootstrap.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+	  .bml
+	  {
+	  	text-align:center;
+		margin-left:20%;
+		margin-right:20%;
+		margin-top:5%;
+		padding-top:20px;
+		padding-bottom:130px;
+		height:600px;
+	}
+		table
+		{
+		width:75%;
+		margin-left:100px;
+		}
+		table td,th
+		{
+		padding:10px;
+		text-align:left;
+		}
+		table,table th,table td
+		{
+		border:1px solid black;
+		border-collapse:collapse;
+		}
+		table th{
+		background-color:#337ab7;
+			color:white;
+		height:40px;
+		}
+
+</style>
 </head>
 <body>
 <div class="jumbotron">
